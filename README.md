@@ -51,9 +51,15 @@ An interactive, category-based food menu built with **React** and **Tailwind CSS
 
 ## 📂 Folder Structure
 src/
+
 ├── assets/
+
 ├── components/
+
 │ ├── Home.jsx
+
 │ └── Category.jsx
+
 ├── App.jsx
+
 └── main.jsx
